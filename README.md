@@ -28,11 +28,11 @@ yarn --version
 ### 2. Clone Repository Project App
 - Clone with `ssh`
     ```sh
-    git@github.com:luthfyhakim/pengaduan-masyarakat.git
+    git@github.com:novalbahri17/LAPORG.git
     ```
 - Clone with `https`
     ```sh
-    https://github.com/luthfyhakim/pengaduan-masyarakat.git
+    https://github.com/novalbahri17/LAPORG.git
     ```
 
 switch to the repo folder
